@@ -1,4 +1,4 @@
-words.txt : https://github.com/dwyl/english-words/blob/master/words.txt 
+words.txt : https://github.com/dwyl/english-words/blob/master/words.txt \n
 
 passlist.txt : https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
 
